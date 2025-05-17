@@ -29,14 +29,10 @@
 
 ---
 
-##   🏆 Certifications:
+## 🛠️ Languages and Tools:
 
-   -   Oracle Cloud Infrastructure Foundations Associate 🏅
-
----
-
-##   🏅 Achievements:
-
-   -   (Optional: List any awards 🥇, recognitions ⭐️, hackathon wins 🏆, etc.)
-
----
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white&style=flat)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=black&style=flat)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white&style=flat)
+![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white&style=flat)
