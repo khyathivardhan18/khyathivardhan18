@@ -1,31 +1,42 @@
-# Hi, I'm Khyathi Vardhan Inturi
+#   👋 Hi, I'm Khyathi Vardhan Inturi
 
-## Bridging Data Solutions with Cloud Expertise
+![Data Flow Visualization](data_flow.png)  ##   🚀 Driving Data-Driven Solutions in the Cloud ☁️
 
-With a strong foundation in data analysis, engineering, and database administration, I am passionate about leveraging cloud technologies to build scalable and impactful data solutions. My expertise includes SQL, Python, Power BI, and cloud platforms like AWS and Oracle Cloud Infrastructure (OCI). I am committed to driving data-driven insights and innovation.
+   A results-driven graduate 🎓 from Cleveland State University with a strong foundation in data technologies 💻 and a proven ability to deliver impactful data solutions 📈 across data analysis 📊, engineering 🛠️, and database administration 🗄️. I leverage expertise in SQL 💽, Python 🐍, Power BI, and cloud platforms (AWS ☁️ & OCI ☁️) to build scalable and innovative data solutions.
 
-## Current Focus Areas:
+---
 
--   Developing ETL pipelines and data warehousing solutions in the cloud (OCI, AWS).
--   Applying data visualization techniques to communicate complex data insights.
--   Optimizing database performance and implementing data security best practices.
+##   🎯 Current Focus Areas:
 
-## Key Highlights:
+   -   ☁️ Developing ETL pipelines ⚙️ and data warehousing solutions 🏭 in the cloud (OCI, AWS).
+   -   📈 Applying data visualization techniques 🎨 to communicate complex data insights 💡.
+   -   🗄️ Optimizing database performance ⚡️ and implementing data security best practices 🛡️.
 
--   **Hands-On Expertise:** SQL, Python, Power BI, and experience with database systems (MySQL, Oracle).
--   **Cloud Proficiency:** Designing and deploying data solutions on AWS and Oracle Cloud Infrastructure (OCI).
--   **Data Engineering Acumen:** Building ETL pipelines, data warehousing solutions, and data integration workflows.
+---
 
-## Contact:
+##   ✨ Key Highlights:
 
--   **LinkedIn:** [Your LinkedIn Profile URL]
--   **Portfolio:** [Your Portfolio URL (if you have one)]
--   **Email:** [Your Email Address] (Optional)
+   -   🧑‍💻 **Hands-On Expertise:** SQL 💽, Python 🐍 (Pandas, NumPy, Scikit-learn), Power BI, and experience with database systems (MySQL, Oracle).
+   -   ☁️ **Cloud Proficiency:** Designing and deploying data solutions on AWS ☁️ (EC2, S3, RDS) and Oracle Cloud Infrastructure (OCI) ☁️.
+   -   🛠️ **Data Engineering Acumen:** Building ETL pipelines ⚙️, data warehousing solutions 🏭, and data integration workflows.
 
-## Certifications:
+---
 
--   Oracle Cloud Infrastructure Foundations Associate
+##   📫 Contact:
 
-## Achievements:
+   -   **LinkedIn:** [https://www.linkedin.com/in/khyathivardhaninturi/](https://www.linkedin.com/in/khyathivardhaninturi/) 🔗
+   -   **Email:** [khyathivardhan18@gmail.com](mailto:khyathivardhan18@gmail.com) 📧
 
--   (Optional: List any awards, recognitions, hackathon wins, etc.)
+---
+
+##   🏆 Certifications:
+
+   -   Oracle Cloud Infrastructure Foundations Associate 🏅
+
+---
+
+##   🏅 Achievements:
+
+   -   (Optional: List any awards 🥇, recognitions ⭐️, hackathon wins 🏆, etc.)
+
+---
