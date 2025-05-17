@@ -1,7 +1,6 @@
 #   👋 Hi, I'm Khyathi Vardhan Inturi
-
-![Data Flow Visuali![undraw_real-time-analytics_50za](https://github.com/user-attachments/assets/0a9ecbba-7cae-4fc3-bf23-dd170b618160)
-zation](data_flow.png)  ##   🚀 Driving Data-Driven Solutions in the Cloud ☁️
+[Data Visualization](undraw_real-time-analytics_50za.png)
+  ##   🚀 Driving Data-Driven Solutions in the Cloud ☁️
 
    A results-driven graduate 🎓 from Cleveland State University with a strong foundation in data technologies 💻 and a proven ability to deliver impactful data solutions 📈 across data analysis 📊, engineering 🛠️, and database administration 🗄️. I leverage expertise in SQL 💽, Python 🐍, Power BI, and cloud platforms (AWS ☁️ & OCI ☁️) to build scalable and innovative data solutions.
 
