@@ -1,5 +1,5 @@
 #   👋 Hi, I'm Khyathi Vardhan Inturi
-[Data Visualization](undraw_real-time-analytics_50za.png)
+
   ##   🚀 Driving Data-Driven Solutions in the Cloud ☁️
 
    A results-driven graduate 🎓 from Cleveland State University with a strong foundation in data technologies 💻 and a proven ability to deliver impactful data solutions 📈 across data analysis 📊, engineering 🛠️, and database administration 🗄️. I leverage expertise in SQL 💽, Python 🐍, Power BI, and cloud platforms (AWS ☁️ & OCI ☁️) to build scalable and innovative data solutions.
@@ -26,7 +26,7 @@
 
    -   **LinkedIn:** [https://www.linkedin.com/in/khyathivardhaninturi/](https://www.linkedin.com/in/khyathivardhaninturi/) 🔗
    -   **Email:** [khyathivardhan18@gmail.com](mailto:khyathivardhan18@gmail.com) 📧
-   -   ** phone:** (216)-374-3871
+  
 ---
 
 ## 🛠️ Languages and Tools:
