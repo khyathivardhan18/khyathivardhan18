@@ -26,7 +26,7 @@
 
    -   **LinkedIn:** [https://www.linkedin.com/in/khyathivardhaninturi/](https://www.linkedin.com/in/khyathivardhaninturi/) 🔗
    -   **Email:** [khyathivardhan18@gmail.com](mailto:khyathivardhan18@gmail.com) 📧
-
+   -   ** phone:** (216)-374-3871
 ---
 
 ## 🛠️ Languages and Tools:
