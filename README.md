@@ -1,0 +1,9 @@
+- 👋 Hi, I'm Khyathi Vardhan Inturi
+- 🧑‍💻 A data-driven professional with expertise in data analysis, engineering, and database administration.
+- ☁️  Passionate about cloud technologies, with experience in AWS and Oracle Cloud Infrastructure (OCI).
+- 🏆 Oracle Cloud Infrastructure Foundations Associate certified.
+- 🔭 I’m currently focused on expanding my skills in [Choose 1-2: Data Warehousing, Big Data, Machine Learning, etc.].
+- 🌱 I’m currently learning [Choose 1-2: a specific technology like Apache Spark, Snowflake, a programming language like Scala, etc.].
+- 💞️ I’m looking to collaborate on projects related to [Choose 1-2: data analysis, ETL pipelines, database optimization, cloud data solutions, etc.].
+- 📫 How to reach me: [Your Email Address or LinkedIn Profile URL]
+- ⚡ Fun fact: [Add something personal and interesting! E.g., "I enjoy visualizing data through creative dashboards," or "I'm a big fan of data science podcasts."]
