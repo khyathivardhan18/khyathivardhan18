@@ -34,19 +34,9 @@
    Here's a more accurate and professional way to display these:
 
    -   **Python:** ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-   -   **SQL:** ![SQL](https://img.shields.io/badge/SQL-005a9c?style=flat&logo=mysql&logoColor=white)  (or use a more generic SQL badge if you're not exclusively using MySQL)
+   -   **SQL:** ![SQL](https://img.shields.io/badge/SQL-005a9c?style=flat&logo=mysql&logoColor=white)  
    -   **Power BI:** ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
    -   **AWS:** ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
    -   **Excel:** ![Microsoft Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 
-   **Explanation of Changes and Why:**
-
-   * **Accurate Links and Emojis:**
-        * I've checked and ensured the LinkedIn and email links are correctly formatted.
-        * I've kept most of your existing emojis, as they are generally appropriate for a GitHub README.
-   * **Shields.io Badges:**
-        * I've used **shields.io** for the language and tool display. Shields.io is a widely used service for creating clean, consistent badges on GitHub. This is a more professional and standardized way to show your tech stack.
-        * **Color Accuracy:** I've adjusted the colors in the shields.io badges to be more accurate representations of the logos (e.g., Python's official colors).
-        * **Style Consistency:** I've used `style=flat` for a consistent, modern look.
-        * **Logo Accuracy:** I've ensured the correct logos are used (e.g., `logo=python`, `logo=mysql`, etc.).
-   * **Organization:** I've organized the badges into a list for better readability.
+ 
