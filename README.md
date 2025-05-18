@@ -1,7 +1,14 @@
 #   👋 Hi, I'm Khyathi Vardhan Inturi
 
       
-                     ![Rotating globe 3D animation](images/globe.gif)
+
+![3D Data Visualization](https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDc1MzA1NzAsIm5iZiI6MTc0NzUzMDI3MCwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NDAtODA3Mjg4MjAtZTA2Yi00Zjk2LTljOWUtOWRmNDZmMGNjMGE1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA1MTglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNTE4VDAxMDQzMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTNkNGNkMTFlZjI2YzYzZjgzZmQ1ZGM4ZjEwNWIxMDUwNjNmMGQzMmNkNjU4ODIzYmU3MzliZjdhNjJhNTI1OTImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.2pcA1lNb8KYXRpSbx1vaGWHstUbj-nK3f1cncXnqJ08)
+
+##   🚀 Driving Data Solutions in the Cloud
+
+   A results-driven graduate 🎓 from Cleveland State University with a strong foundation in data technologies 💻, specializing in data analysis 📊, engineering ⚙️, and database administration 🗄️. I leverage expertise in SQL 💽, Python 🐍, Power BI, and cloud platforms (AWS ☁️ & OCI ☁️) to build scalable and innovative data solutions.
+
+... (rest of your README content)
 
 ##   🚀 Driving Data Solutions in the Cloud
 
