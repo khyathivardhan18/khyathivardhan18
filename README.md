@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Khyathi Vardhan Inturi
 
-[![Profile Views](https://profile-counter.glitch.me/KhyathiVardhanInturi/count.svg)](https://github.com/KhyathiVardhanInturi)
+![Profile Views](https://komarev.com/ghpvc/?username=KhyathiVardhanInturi&style=flat-square&color=blue)
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1044993/screenshots/4012238/data_analytics_animation.gif" width="75%" alt="Data Analytics Animation" />
+  <img src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="75%" alt="Data Analytics Loop" />
 </p>
 
 ---
