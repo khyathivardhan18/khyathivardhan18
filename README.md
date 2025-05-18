@@ -1,29 +1,33 @@
-# Khyathi Vardhan Inturi
+# 👋 Hi, I'm Khyathi Vardhan Inturi
 
 [![Profile Views](https://profile-counter.glitch.me/KhyathiVardhanInturi/count.svg)](https://github.com/KhyathiVardhanInturi)
 
-
-  <br/>
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="60%" alt="Tech Animation" />
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1044993/screenshots/4012238/data_analytics_animation.gif" width="75%" alt="Data Analytics Animation" />
 </p>
 
 ---
 
-## 🚀 Driving Data Solutions in the Cloud
+🎓 A passionate data professional with a strong foundation in **data engineering**, **cloud analytics**, and **business intelligence**.
 
-Graduate from **Cleveland State University** passionate about cloud-based data pipelines, intelligent dashboards, and actionable analytics. I build seamless data workflows that turn complexity into clarity.
+🚀 I specialize in:
+- Building ETL pipelines in **AWS** and **OCI**
+- Creating visual dashboards with **Power BI**
+- Transforming data into insights using **Python** and **SQL**
 
----
-
-### 🔧 Core Competencies
-
-- **ETL & Pipelines**: Automating data ingestion, cleansing, and integration (OCI & AWS)
-- **Business Intelligence**: Crafting dashboards and reports using Power BI & Python
-- **Cloud Technologies**: Architecting solutions using AWS (EC2, S3, RDS) and Oracle Cloud
+🌱 Always learning, always analyzing — aiming to solve real-world problems with smart data solutions.
 
 ---
 
-### 🛠️ Languages and Tools
+## 🔧 Core Competencies
+
+- **ETL & Pipelines**: Automating data ingestion, transformation, and warehousing (AWS Glue, OCI Data Integration)
+- **Analytics & BI**: Creating actionable dashboards using Power BI, Excel, and Python
+- **Cloud Platforms**: Architecting scalable solutions using AWS (EC2, S3, RDS) and Oracle Cloud
+
+---
+
+## 🛠️ Languages and Tools
 
 | Programming | Analytics | Cloud |
 |-------------|-----------|--------|
@@ -32,7 +36,7 @@ Graduate from **Cleveland State University** passionate about cloud-based data p
 
 ---
 
-### 📌 Certifications
+## 📌 Certifications
 
 - 🏅 Oracle Cloud Infrastructure Foundations Associate  
 - 🏅 AWS Certified  
@@ -40,14 +44,14 @@ Graduate from **Cleveland State University** passionate about cloud-based data p
 
 ---
 
-### 📬 Let’s Connect
+## 📬 Let’s Connect
 
 <p align="left">
   <a href="https://www.linkedin.com/in/khyathivardhaninturi/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:khyathivardhan18@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://github.com/KhyathiVardhanInturi">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
