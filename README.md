@@ -3,7 +3,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=KhyathiVardhanInturi&style=flat-square&color=blue)
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="75%" alt="Data Analytics Loop" />
+  <img src="https://cdn.dribbble.com/users/2046015/screenshots/5791691/data_analysis.gif" width="75%" alt="Data Analysis Animation" />
 </p>
 
 ---
