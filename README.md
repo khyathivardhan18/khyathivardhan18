@@ -2,8 +2,7 @@
 
 [![Profile Views](https://profile-counter.glitch.me/KhyathiVardhanInturi/count.svg)](https://github.com/KhyathiVardhanInturi)
 
-<p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="70%" alt="Data Viz Animation 1" />
+
   <br/>
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="60%" alt="Tech Animation" />
 </p>
