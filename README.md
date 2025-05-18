@@ -8,17 +8,6 @@
 
    A results-driven graduate 🎓 from Cleveland State University with a strong foundation in data technologies 💻, specializing in data analysis 📊, engineering ⚙️, and database administration 🗄️. I leverage expertise in SQL 💽, Python 🐍, Power BI, and cloud platforms (AWS ☁️ & OCI ☁️) to build scalable and innovative data solutions.
 
-... (rest of your README content)
-
-##   🚀 Driving Data Solutions in the Cloud
-
-   A results-driven graduate 🎓 from Cleveland State University with a strong foundation in data technologies 💻, specializing in data analysis 📊, engineering ⚙️, and database administration 🗄️. I leverage expertise in SQL 💽, Python 🐍, Power BI, and cloud platforms (AWS ☁️ & OCI ☁️) to build scalable and innovative data solutions.
-
-... (rest of your README)
-                                              
-##   🚀 Driving Data Solutions in the Cloud
-
-   A results-driven graduate 🎓 from Cleveland State University with a strong foundation in data technologies 💻, specializing in data analysis 📊, engineering ⚙️, and database administration 🗄️. I leverage expertise in SQL 💽, Python 🐍, Power BI, and cloud platforms (AWS ☁️ & OCI ☁️) to build scalable and impactful data solutions.
 
 ---
 
