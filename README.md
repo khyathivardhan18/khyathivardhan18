@@ -31,7 +31,7 @@
 
 ##   🛠️ Languages and Tools:
    -   **Python:** [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
-   -   **SQL:** [![SQL](https://img.shields.io/badge/SQL-0000CD?style=flat&logo=sql&logoColor=white)](https://www.mysql.com/)  (or a more appropriate SQL vendor if you use one heavily, e.g., PostgreSQL)
+   -   **SQL:** [![SQL](https://img.shields.io/badge/SQL-0000CD?style=flat&logo=sql&logoColor=white)](https://www.mysql.com/)  
    -   **Power BI:** [![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
    -   **AWS:** [![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
    -   **Excel:** [![Microsoft Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
