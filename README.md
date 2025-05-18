@@ -2,9 +2,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=KhyathiVardhanInturi&style=flat-square&color=blue)
 
-<p align="center">
-  <img src="https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/blob/main/assets/data_analytics_professional.png?raw=true" width="75%" alt="Professional Data Analyst" />
-</p>
 
 ---
 
