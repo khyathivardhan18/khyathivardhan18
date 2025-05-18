@@ -1,10 +1,7 @@
 #   👋 Hi, I'm Khyathi Vardhan Inturi
 
-                      
-
-![Rotating globe 3D animation](images/globe.gif)
-
-
+      
+                     ![Rotating globe 3D animation](images/globe.gif)
 
 ##   🚀 Driving Data Solutions in the Cloud
 
