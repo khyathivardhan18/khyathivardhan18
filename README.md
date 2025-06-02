@@ -7,7 +7,7 @@
 
 🎓 A passionate data professional with a strong foundation in **data engineering**, **cloud analytics**, and **business intelligence**.
 
-🚀 I specialize in:
+  I specialize in:
 - Building ETL pipelines in **AWS** and **OCI**
 - Creating visual dashboards with **Power BI**
 - Transforming data into insights using **Python** and **SQL**
