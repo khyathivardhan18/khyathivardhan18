@@ -18,7 +18,7 @@
 ## 🔧 Core Competencies
 
 - **Backend Development**: Designing and implementing APIs using Java, Spring Boot, and REST architecture
-- **Cloud & Infrastructure**: Deploying services on AWS (EC2, S3, RDS) and Oracle Cloud Infrastructure (OCI)
+- **Cloud & Infrastructure**: Deploying services on AWS (S3, RDS) and Oracle Cloud Infrastructure (OCI)
 - **Data & BI**: Creating data pipelines, dashboards, and insights using SQL, Power BI, and Python
 
 ---
